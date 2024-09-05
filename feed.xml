@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <atom:link href="https://raashnachand.com/feed.xml" rel="self" type="application/rss+xml" />
+        <title>Raashna Chand</title>
+        <description>Personal website of Raashna Chand. Web design, blogging, travel logging and CV.</description>
+        <link>https://raashnachand.com/</link>
+        <language>en-gb</language>
+
+            <item>
+              <title>Site created</title>
+              <pubDate>Thu, 05 Sep 2024 19:49:24 +1200</pubDate>
+              <link>https://raashnachand.com/</link>
+              <guid>1</guid>
+              <description></description>
+            </item>
+
+    </channel>
+</rss>
