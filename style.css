@@ -29,6 +29,10 @@ a:hover {
   width: 25%;
 }
 
+#head {
+    width: 95%;
+}
+
 .main {
     width: 67%;
 }
@@ -98,24 +102,6 @@ a:hover {
     color: black;
 }
 
-.about {
-    width: 18%;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 99vh;
-}
-
-.about p {
-    background-color: #f8e7e0;
-    padding: 10px;
-    text-align: center;
-    width: 75%;
-    display: block;
-    margin: auto;
-}
-
 .row:after {
   content: "";
   display: table;
@@ -139,7 +125,7 @@ a:hover {
         display: none;
     }
 
-    .main, .nav, .about {
+    .main, .nav {
         width: 100%;
         height: auto;
     }
