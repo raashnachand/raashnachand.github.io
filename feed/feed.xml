@@ -4,14 +4,22 @@
         <atom:link href="https://raashnachand.com/feed.xml" rel="self" type="application/rss+xml" />
         <title>Raashna Chand</title>
         <description>Personal website of Raashna Chand. Web design, blogging, travel logging and CV.</description>
-        <link>https://raashnachand.com/</link>
+        <link>https://raashnachand.github.io/</link>
         <language>en-gb</language>
+
+            <item>
+              <title>Blog post 2</title>
+              <pubDate>Wed, 18 Dec 2024 11:53:57 +1300</pubDate>
+              <link>https://raashnachand.github.io/</link>
+              <guid>https://raashnachand.github.io/2</guid>
+              <description></description>
+            </item>
 
             <item>
               <title>Site created</title>
               <pubDate>Thu, 05 Sep 2024 19:49:24 +1200</pubDate>
-              <link>https://raashnachand.com/</link>
-              <guid>https://raashnachand.com/1</guid>
+              <link>https://raashnachand.github.io/</link>
+              <guid>https://raashnachand.github.io/1</guid>
               <description></description>
             </item>
     </channel>
